@@ -75,6 +75,6 @@ append	: O(n)
 find :	O(n)
 remove : O(n)
 
-Space Complexity : 
+Space Complexity : O(n)
 
 '''
