@@ -40,3 +40,12 @@ while True:
             print('Popped value: ', int(popped))
     elif operation == 'quit':
         break
+
+'''
+Time Complexity : O(1)
+Push  : O(1)
+Pop   : O(1)
+Peek  : O(1)
+
+Space Complexity : O(n)
+'''

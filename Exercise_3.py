@@ -70,10 +70,11 @@ class SinglyLinkedList:
             current = current.next
 
 '''
-Time Complexities - 
-append	O(n)
-find	O(n)
-remove	O(n)
-constructor	O(1)
+Time Complexity : O(n) 
+append	: O(n)
+find :	O(n)
+remove : O(n)
+
+Space Complexity : 
 
 '''

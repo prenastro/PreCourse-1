@@ -35,3 +35,15 @@ s.push('1')
 s.push('2')
 print(s.pop())
 print(s.show())
+
+'''
+Time Complexity : O(1)
+push() : O(1)
+pop() :	O(1)
+peek() : O(1)
+isEmpty() : O(1)
+size() : O(1)
+show() : O(1)	
+
+Space Completxity : O(n)
+'''
